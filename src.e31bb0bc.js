@@ -521,7 +521,7 @@ var App = /*#__PURE__*/function () {
 
 exports.App = App;
 },{"./site":"classes/site.js","./sidebar":"classes/sidebar.js"}],"assets/image.png":[function(require,module,exports) {
-module.exports = "/image.90ac9039.png";
+module.exports = "image.90ac9039.png";
 },{}],"model.js":[function(require,module,exports) {
 "use strict";
 
